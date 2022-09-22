@@ -1,0 +1,16 @@
+﻿{
+  "attributes": [
+    {
+      "attributeName": "resource.azure.path",
+      "attributeValueIncludes": "/subscriptions/34fb3b81-27ab-4690-9d0b-668896fd288c/resourceGroups/e2etest/providers/Microsoft.Storage/storageaccounts/purviewscannaccount007"
+    },
+    {
+      "attributeName": "principal.microsoft.id",
+      "attributeValueIncludes": "a95f2b90-3891-4215-9fcb-971bddd5785c"
+    },
+    {
+      "attributeName": "resource.azure.dataAction",
+      "attributeValueIncludes": "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read"
+    }
+  ]
+}

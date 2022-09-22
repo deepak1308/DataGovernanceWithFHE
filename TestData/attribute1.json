@@ -1,0 +1,16 @@
+﻿{
+  "attributes": [
+    {
+      "attributeName": "resource.azure.path",
+      "attributeValueIncludes": "/subscriptions/24d273df-8743-42fe-b46b-a74c558e3045/resourceGroups/desinghal-rg/providers/Microsoft.Sql/servers/desinghal-sqlserver/databases/SqlDatabase-707/schema/dbo/tables/Table12/**"
+    },
+    {
+      "attributeName": "principal.microsoft.id",
+      "attributeValueIncludes": "a95f2b90-3891-4215-9fcb-971bddd5784c"
+    },
+    {
+      "attributeName": "resource.azure.dataAction",
+      "attributeValueIncludes": "Microsoft.Sql/sqlservers/databases/schemas/tables/rows/select"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "policy3",
+  "id": "6db8c85f-868d-47a4-8088-0c87e69974c4",
+  "description": "TestStoragePolicy",
+  "version": 1,
+  "decisionRules": [
+    {
+      "kind": "decisionrule",
+      "effect": "Deny",
+      "id": "b494e1ff-2941-4c97-a36a-1acca2ccab18",
+      "updatedAt": "09/21/2021 05:36:56",
+      "cnfCondition": [
+        [
+          {
+            "attributeName": "resource.azure.path",
+            "attributeValueIncludedIn": [
+              "/subscriptions/34fb3b81-27ab-4690-9d0b-668896fd288c/resourceGroups/e2etest/providers/Microsoft.Storage/storageaccounts/purviewscannaccount007"
+            ]
+          }
+        ],
+        [
+          {
+            "attributeName": "principal.microsoft.id",
+            "attributeValueIncludedIn": [
+              "a95f2b90-3891-4215-9fcb-971bddd5785c"
+            ]
+          }
+        ],
+        [
+          {
+            "attributeName": "resource.azure.dataAction",
+            "attributeValueIncludedIn": [
+              "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read"
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
