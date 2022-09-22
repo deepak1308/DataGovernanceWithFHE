@@ -7,7 +7,7 @@
 
     class SecurePDP
     {
-        string path = @"C:\Users\desinghal\source\repos\SEALDemo\TestData\";
+        string path = @"TestData\";
         Dictionary<string, List<string>> policies = new Dictionary<string, List<string>>();
 
         public static bool verbose = true;
