@@ -1,0 +1,118 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Microsoft.Research.SEALNet/3.7.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/SEALNet.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SEALNet.dll": {}
+        },
+        "build": {
+          "build/Microsoft.Research.SEALNet.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Research.SEALNet/3.7.2": {
+      "sha512": "kl09hK9A7vEKU5Msq/S0ClBbqTDB5ltmqJ8uAo2z7Dh1RPNaZWP6gDGhSSqcg8qxtdMKo3VXygJwe63ILl0yRQ==",
+      "type": "package",
+      "path": "microsoft.research.sealnet/3.7.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "ThirdPartyNotices",
+        "build/Microsoft.Research.SEALNet.targets",
+        "lib/Xamarin.iOS10/SEALNet.dll",
+        "lib/Xamarin.iOS10/SEALNet.xml",
+        "lib/netstandard2.0/SEALNet.dll",
+        "lib/netstandard2.0/SEALNet.xml",
+        "microsoft.research.sealnet.3.7.2.nupkg.sha512",
+        "microsoft.research.sealnet.nuspec",
+        "runtimes/android-arm64/libsealc.so",
+        "runtimes/android-x64/libsealc.so",
+        "runtimes/ios64/libseal.a",
+        "runtimes/ios64/libsealc.a",
+        "runtimes/linux-x64/libsealc.so",
+        "runtimes/macos-x64/libsealc.dylib",
+        "runtimes/win10-x64/sealc.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Microsoft.Research.SEALNet >= 3.7.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\desinghal\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\desinghal\\source\\repos\\SEALDemo\\SEALDemo.csproj",
+      "projectName": "SEALDemo",
+      "projectPath": "C:\\Users\\desinghal\\source\\repos\\SEALDemo\\SEALDemo.csproj",
+      "packagesPath": "C:\\Users\\desinghal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\desinghal\\source\\repos\\SEALDemo\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\desinghal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Microsoft.Research.SEALNet": {
+            "target": "Package",
+            "version": "[3.7.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

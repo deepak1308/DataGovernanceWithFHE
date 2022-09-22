@@ -1,0 +1,17 @@
+C:\Users\desinghal\source\repos\SEALDemo\bin\Release\netcoreapp3.1\sealc.dll
+C:\Users\desinghal\source\repos\SEALDemo\bin\Release\netcoreapp3.1\SEALDemo.exe
+C:\Users\desinghal\source\repos\SEALDemo\bin\Release\netcoreapp3.1\SEALDemo.deps.json
+C:\Users\desinghal\source\repos\SEALDemo\bin\Release\netcoreapp3.1\SEALDemo.runtimeconfig.json
+C:\Users\desinghal\source\repos\SEALDemo\bin\Release\netcoreapp3.1\SEALDemo.runtimeconfig.dev.json
+C:\Users\desinghal\source\repos\SEALDemo\bin\Release\netcoreapp3.1\SEALDemo.dll
+C:\Users\desinghal\source\repos\SEALDemo\bin\Release\netcoreapp3.1\SEALDemo.pdb
+C:\Users\desinghal\source\repos\SEALDemo\bin\Release\netcoreapp3.1\SEALNet.dll
+C:\Users\desinghal\source\repos\SEALDemo\obj\Release\netcoreapp3.1\SEALDemo.csproj.AssemblyReference.cache
+C:\Users\desinghal\source\repos\SEALDemo\obj\Release\netcoreapp3.1\SEALDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desinghal\source\repos\SEALDemo\obj\Release\netcoreapp3.1\SEALDemo.AssemblyInfoInputs.cache
+C:\Users\desinghal\source\repos\SEALDemo\obj\Release\netcoreapp3.1\SEALDemo.AssemblyInfo.cs
+C:\Users\desinghal\source\repos\SEALDemo\obj\Release\netcoreapp3.1\SEALDemo.csproj.CoreCompileInputs.cache
+C:\Users\desinghal\source\repos\SEALDemo\obj\Release\netcoreapp3.1\SEALDemo.csproj.CopyComplete
+C:\Users\desinghal\source\repos\SEALDemo\obj\Release\netcoreapp3.1\SEALDemo.dll
+C:\Users\desinghal\source\repos\SEALDemo\obj\Release\netcoreapp3.1\SEALDemo.pdb
+C:\Users\desinghal\source\repos\SEALDemo\obj\Release\netcoreapp3.1\SEALDemo.genruntimeconfig.cache

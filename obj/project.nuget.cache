@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j/wCuc08yJfAKw/MeH+MOU/GGa4GOtntxKLlKADxqe9SsGFT9DlPL+uD/91eVAsMpw7Q/1JA1S5pZ0Vkk8CYGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\desinghal\\source\\repos\\SEALDemo\\SEALDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\desinghal\\.nuget\\packages\\microsoft.research.sealnet\\3.7.2\\microsoft.research.sealnet.3.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
